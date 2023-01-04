@@ -37,7 +37,7 @@ Step 1: Blackjack game built as per logic gathered from website:
 Step 2: Build breakdown of program requirements: 
    Requirements as listed at top of this page
 
-Step 3: Download and read this flow chart I've created: 
+Step 3: Build flow chart: 
 ![Blackjack_Flowchart](https://user-images.githubusercontent.com/9038980/210604957-7e1d93db-1be0-4185-afdd-67751f06a4d4.PNG)
 
 Step 4: Create a deal_card() function that uses the List below to *return* a random card.  
